@@ -1,4 +1,4 @@
-# pr3_numbers_martinez-tagle-
+# pr3_numbers_martinez_tagle
 print(" ")#define una linea en blanco
 
 print("Martinez Tagle Luis Angel, practica 3, desplegando que tipo de numero")
